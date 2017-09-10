@@ -1,7 +1,8 @@
 ---
 name: Test name
+address: |
+  test address 123 2000 Antwerpen
 vat: BE0834911234
-address: >
-  test address 123
-  2000 Antwerpen
+vatnr: BE0834918887
 ---
+
