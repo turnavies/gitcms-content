@@ -7,6 +7,7 @@ payment term: 14 days
 activities:
   - cost: '9999'
     description: Website
-notes: tesst
+notes: ''
 ---
+
 
