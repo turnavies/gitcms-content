@@ -1,7 +1,9 @@
 ---
-name: Test name
+name: Pàu
 address: |
-  test address 123 2000 Antwerpen
+  Reigerstraat 2 
+  2000 Antwerpen
+email: info@pau.be
 vatnr: BE0834911234
 ---
 
